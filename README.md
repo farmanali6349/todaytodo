@@ -1,25 +1,53 @@
-# Today Todo
+# 🗓️ Today Todo
 
-Today Todo is a daily task management app designed to simplify and enhance your productivity. With intuitive features and a clean interface, it ensures that managing your tasks becomes effortless and enjoyable.
+### 🔗 Live Link
 
-## Features
+- [🌐 Live Site](https://todaytodo1.netlify.app/)
+- [📂 GitHub Repo](https://github.com/farmanali6349/todaytodo)
 
-1. **Local Storage**  
-   Your data is securely stored in your browser's local storage. This means your tasks won't be lost even if you close or refresh the browser.
+## 📌 Overview
 
-2. **Light & Dark Theme**  
-   Choose between light and dark themes to match your preferences and ensure a comfortable user experience.
+**Today Todo** is a powerful yet minimal **daily task management app** built with **React.js**, designed to simplify your workflow and **boost productivity**. With helpful features like timers, smart prioritization, and theme customization, it’s your perfect companion for making the most out of every single day.
 
-3. **Daily Countdown & Task Timer**  
-   A countdown timer on the top right corner of the app shows the remaining time of the day. Additionally, it provides an estimated time allocation for each task to help you stay on track and complete your list efficiently.
+✨ Key Features
 
-4. **"Eat the Frog First" Strategy**  
-   Inspired by Brian Tracy's productivity concept in _Eat That Frog_, this feature encourages you to tackle your most challenging and important task first—the one you're most likely to procrastinate on. If this option is selected, the app will automatically prioritize and move your most critical task to the top of your to-do list.
+1. 💾 **Local Storage Support**  
+   Your tasks are saved in your browser’s **local storage**, so nothing gets lost — even when you refresh or close the browser.
 
-5. **Core Task Management Functionalities**  
-   Effortlessly manage your tasks with essential features:
-   - **Create**: Add new tasks to your list.
-   - **Update**: Modify existing tasks as needed.
-   - **Delete**: Remove tasks that are no longer relevant.
+2. 🌗 **Light & Dark Theme**  
+   Choose a theme that suits your mood or lighting. Switch seamlessly between **light** and **dark** modes for a better experience.
 
-Today Todo empowers you to stay focused, prioritize effectively, and make the most out of every day!
+3. ⏳ **Daily Countdown & Task Timer**  
+   Stay mindful of your time!
+
+   - A **countdown timer** shows how much time is left in the day.
+   - Each task also gets a **time estimate** to help you complete your list efficiently.
+
+4. 🐸 **"Eat the Frog First" Strategy**  
+   Inspired by Brian Tracy’s _Eat That Frog_, this feature ensures your **most important task** is done first. When activated, the app will **automatically prioritize** and move your toughest task to the top.
+
+5. ✅ **Core Task Management Functionalities**  
+   Manage your daily goals with ease:
+   - **Create** – Add new tasks
+   - **Update** – Edit existing tasks
+   - **Delete** – Remove completed or irrelevant ones
+
+## 💬 Motivation
+
+This project was created to go **beyond just another to-do app**. I wanted to implement features that encourage **smart planning**, **time management**, and **user empowerment**. It’s designed to help you win the day—every day.
+
+## 🛠️ Tech Stack
+
+- **React.js** – Component-based UI and state management
+- **CSS** – Styling for responsive and theme-friendly UI
+- **JavaScript (ES6)** – Logic and interactivity
+- **Local Storage API** – Persistent data storage
+- **VS Code** – My development environment
+
+## 📸 Screenshot
+
+![Today Todo](todaytodo.png)
+
+## 🗓️ Published On
+
+**Jan 26, 2025**
